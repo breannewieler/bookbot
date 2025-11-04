@@ -1,2 +1,3 @@
-# booklet
-Bookbot program in python, created as part of Boot.dev curriculum
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
