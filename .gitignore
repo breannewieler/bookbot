@@ -1,0 +1,4 @@
+# ignore books directory
+/books
+
+*__pycache__
